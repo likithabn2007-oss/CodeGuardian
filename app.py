@@ -87,7 +87,7 @@ def save_to_mysql(team, pr_title, result):
 st.title("🔍 EquiCode Scanner: Static PR Auditor")
 st.markdown("Fast, rule-based static analysis for security and inclusivity.")
 
-tab1, tab2 = st.tabs(["🚀 Scan Pull Request", "📈 Dashboard"])
+tab1, tab2 = st.tabs(["Scan Pull Request", "Dashboard"])
 
 with tab1:
     with st.container(border=True):
