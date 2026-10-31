@@ -23,7 +23,7 @@ Python, Streamlit, MySQL (PyMySQL, SQLAlchemy), Pandas, Plotly
 
 ### 1. Get the code
 ```
-git clone https://github.com/likithabn2007-oss/CodeGuardian.git
+git clone https://github.com/likithabn2007-oss/CodeGuardian
 cd CodeGuardian
 ```
 
